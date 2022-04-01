@@ -5,13 +5,14 @@ import os
 import time
 from google_images_search import GoogleImagesSearch
 from PIL import Image
+import creds
 
 a = pyttsx3.init()
 voices = a.getProperty('voices')
 a.setProperty('voice', voices[1].id)
 
 gis = GoogleImagesSearch(
-    'AIzaSyAg-pcprmqL8HLLAjcRIfbFwWY3feOKSBA', '33fc5ca2f627fac99')
+    creds.api_key, creds.api_token)
 
 
 hour = int(datetime.datetime.now().hour)
