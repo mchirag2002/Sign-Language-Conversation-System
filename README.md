@@ -14,6 +14,14 @@ The project was made in order to help the specially abled people by making a sig
 
 The project can enable any speech impaired person to use their knowledge of Sign Language and communicate efficiently with the common folk via audio calls.<br>
 
+## Requirements and Dependencies:
+- Python 3.9.10 or above
+- Jupyter Notebook
+- Pyaudio
+- PYTTSX3
+- Speech-Recognition
+- The rest of the dependencies are installed in the code
+
 ## Project Details:
 
 The entire program is broken down into two parts:
