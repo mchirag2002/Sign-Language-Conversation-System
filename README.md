@@ -14,7 +14,7 @@ The project was made in order to help the specially abled people by making a sig
 
 The project can enable any speech impaired person to use their knowledge of Sign Language and communicate efficiently with the common folk via audio calls.<br>
 
-## Structure Details:
+## Project Details:
 
 The entire program is broken down into two parts:
 - Sign Language to Audio (for speech impaired to speak)
@@ -22,6 +22,17 @@ The entire program is broken down into two parts:
 
 ### 1. Sign Language to Audio:
 
- - Firstly create a virtual python environment and run the jupyter notebooks.
- - Open the first jupyter notebook named as 'Image Collection'.
+ - Create a virtual python environment and run the jupyter notebooks.
+ - Open the jupyter notebook 'Image Collection'. This script is to be run only once during the initial setup so as to train the model according to your environment and yourself.
  - Edit the labels section to increase the vocabulary of your model. The words mentioned in the labels dictionary will be the ones which will be detected by the model.
+ - Run the code block by block from the beginning. All the dependencies will also be installed automatically.
+ - The script will run your webcam and as per the instructions written, show the hand sign of the respective word so that it's images can be captured.
+ - Now, run the jupyter notebook named 'Training and Detection'.
+ - If doing initial setup, run every code block. Otherwise check the labels and run only the necessary ones.
+ - The script will train the model and <b>speak the input given by you via hand signs</b>.
+
+### 2. Audio to Sign Language:
+
+ - Run the script 'speech to text'.
+ - Give your voice input when the console says 'Listening..'
+ - Your speech input will be converted into <b>Sign Language</b>
