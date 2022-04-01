@@ -16,6 +16,7 @@ The project can enable any speech impaired person to use their knowledge of Sign
 
 ## Requirements and Dependencies:
 - Python 3.9.10 or above
+- OpenCV
 - Jupyter Notebook
 - Pyaudio
 - PYTTSX3
