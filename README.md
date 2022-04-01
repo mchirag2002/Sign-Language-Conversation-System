@@ -2,7 +2,7 @@
 ## List of contributors:
 - <a href = "https://github.com/mchirag2002"> Chirag Mathur</a>
 - <a href = "https://github.com/undextered"> Abhimanyu Gabhrani</a>
-- <a href = "https://github.com/mchirag2002"> Anand Singh Gahlout</a>
+- <a href = "https://github.com/anandgahlout0508"> Anand Singh Gahlout</a>
 - <a href = "https://github.com/mchirag2002"> Ayushi Joshi</a>
 - <a href = "https://github.com/mchirag2002"> Ayushi Khandelwal</a>
 
