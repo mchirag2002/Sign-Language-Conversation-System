@@ -4,7 +4,7 @@
 - <a href = "https://github.com/undextered"> Abhimanyu Gabhrani</a>
 - <a href = "https://github.com/anandgahlout0508"> Anand Singh Gahlout</a>
 - <a href = "https://github.com/Ayushijoshi28"> Ayushi Joshi</a>
-- <a href = "https://github.com/mchirag2002"> Ayushi Khandelwal</a>
+- <a href = "https://github.com/ayuushi15"> Ayushi Khandelwal</a>
 - <a href = "https://github.com/dakshshar"> Daksh Sharma </a>
 
 ## Agenda of the Project:
